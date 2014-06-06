@@ -2,4 +2,4 @@
 *.swp
 .DS_Store
 venv_flask/
-*.pyc
+*.py[cod]
